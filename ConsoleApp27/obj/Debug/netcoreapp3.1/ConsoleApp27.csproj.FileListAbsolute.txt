@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.exe
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.deps.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.dev.json
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfo.cs
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\hp\Desktop\ders.cs\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.genruntimeconfig.cache
